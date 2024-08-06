@@ -5,13 +5,13 @@
 ## Quick Start 
 clone the repo
 ```
-    git clone https://github.com/Pratiksahu2003/lms.git
+    git clone https://github.com/Pratiksahu2003/Laravel-libraray-management-system.git
 ```
 
 change current directory
 
 ```
-cd lms
+cd Laravel-libraray-management-system
 ```
 install dependencies
 ```
