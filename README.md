@@ -5,13 +5,13 @@
 ## Quick Start 
 clone the repo
 ```
-    git clone https://github.com/tauseedzaman/Laravel-libraray-management-system
+    git clone https://github.com/Pratiksahu2003/lms.git
 ```
 
 change current directory
 
 ```
-cd Laravel-libraray-management-system
+cd lms
 ```
 install dependencies
 ```
@@ -39,7 +39,7 @@ php artisan serve
 ```
 credentails
 ```
-username: tauseedzaman
+username: Admin@2024
 password: password
 ```
 # That's all 🎊🎉 
@@ -59,7 +59,7 @@ password: password
 <img src="Screenshots/lms (12).png" width="100%" /><br /> <br />
 <img src="Screenshots/lms (13).png" width="100%" /><br /> <br />
 
-Watch demo at tauseedzaman youtube channel https://youtube.com/channel/UCnJYN9jTfEnumvJUw4rhh9A
+Linkdin Profile  www.linkedin.com/in/pratik-sahu-2719a3280
 
 ```
 Make sure to leave a start ✨✨
